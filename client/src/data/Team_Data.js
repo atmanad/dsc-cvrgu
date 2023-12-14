@@ -37,7 +37,7 @@ import Abhidey from "../img/team/abhidey.jpg";
 
 // fontawesome
 import { faLinkedin, faFacebook } from "@fortawesome/free-brands-svg-icons";
-import { faInstagram, faAdobe } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 import { faTwitter } from "@fortawesome/free-brands-svg-icons";
 
 // data
@@ -57,7 +57,7 @@ export const Faculties = [
     src: Monalisa,
     name: "Monalisa Mishra",
     des: "Faculty Advisor",
-    social: [{ href: "#", icon: faAdobe }],
+    social: [{ href: "#", icon: faInstagram }],
   },
   {
     src: Rashmi,
